@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">APPCuadrucula</string>
+    <string name="architecture">architecture</string>
+    <string name="crafts">crafts</string>
+    <string name="business">business</string>
+    <string name="culinary">culinary</string>
+    <string name="design">design</string>
+    <string name="fashion">fashion</string>
+    <string name="film">film</string>
+    <string name="gaming">gaming</string>
+    <string name="drawing">drawing</string>
+    <string name="lifestyle">lifestyle</string>
+    <string name="music">music</string>
+    <string name="painting">painting</string>
+    <string name="photography">photography</string>
+    <string name="tech">tech</string>
+
+</resources>

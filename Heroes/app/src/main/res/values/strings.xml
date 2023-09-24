@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Heroes</string>
+        <string name="hero1">Robotboy</string>
+        <string name="description1">Un robot</string>
+        <string name="hero2">Reality Protector</string>
+        <string name="description2">Understands the absolute truth</string>
+        <string name="hero3">Andre el gigante</string>
+        <string name="description3">Peinado chistoso</string>
+        <string name="hero4">Benjamin el bravo</string>
+        <string name="description4">Es valiente como los pajaros</string>
+        <string name="hero5">Magnificent Maru</string>
+        <string name="description5">Se parece a Finn</string>
+        <string name="hero6">Dynamic Yasmine</string>
+        <string name="description6">los gemelos fantasticos pero individual</string>
+    </resources>
+
